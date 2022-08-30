@@ -1,2 +1,2 @@
-# LenguajesDeProgramacion
-Este repositorio almacena el código de la clase de Lenguajes de Programación.
+# html-basic
+Just a kick off for the web development process
